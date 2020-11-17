@@ -9,4 +9,4 @@ I mostly just program for fun, and love to show off my projects on Github!
 - Administrator and developer for the [Bikini Bottom](https://bikinibottomdiscord.org) Discord server.
 
 [![nwunderly's github stats](https://github-readme-stats.vercel.app/api?username=nwunderly&count_private=true&show_icons=true&theme=dark)](https://github.com/nwunderly)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwunderly&theme=dark)](https://github.com/nwunderly)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwunderly&layout=compact&theme=dark)](https://github.com/nwunderly)
