@@ -8,5 +8,5 @@ I mostly just program for fun, and love to show off my projects on Github!
 - Creator of [aionasa](https://github.com/nwunderly/aionasa), an async Python wrapper for the NASA Open APIs.
 - Administrator and developer for the [Bikini Bottom](https://bikinibottomdiscord.org) Discord server.
 
-[![nwunderly's github stats](https://github-readme-stats.vercel.app/api?username=nwunderly&count_private=true&show_icons=true)](https://github.com/nwunderly)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nwunderly&langs_count=6&layout=compact)](https://github.com/nwunderly)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nwunderly&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwunderly&layout=compact&card_width=250&hide_border=true"/>
