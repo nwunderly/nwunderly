@@ -19,6 +19,7 @@ My website: https://nwunder.com
 - [InspiroBot-bot](https://github.com/nwunderly/inspirobot-bot), a very well-named project that brings [InspiroBot](https://inspirobot.me) to Discord.
 
 ### Come say hi! (Discord)
+- My server! [Dog](https://discord.gg/d25W5PS)
 - Owner @ [Duck Game](https://duckga.me)
 - Admin @ [Bikini Bottom](https://discord.gg/spongebob)
 - Admin @ [MCAT](https://discord.gg/premed)
