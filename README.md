@@ -21,13 +21,12 @@ My website: https://nwunder.com
 ### Come say hi! (Discord)
 - Me: `nwunder#4003`
 - My server! [Dog](https://discord.gg/EtvTR9j6Na)
-- Owner @ [Duck Game](https://duckga.me/discord)
-- Admin @ [Bikini Bottom](https://discord.gg/spongebob)
-- Admin @ [MCAT](https://discord.gg/premed)
 
+<!--
 ### Help me out
 If you like what I do, you're welcome to buy me a coffee! All donations will go towards hosting costs for my projects and/or coffee to feed my caffeine addiction. <3 <br>
 https://ko-fi.com/nwunder
+-->
 
 ### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nwunderly&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
