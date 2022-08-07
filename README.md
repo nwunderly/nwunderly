@@ -21,6 +21,11 @@ My website: https://nwunder.com
 ### Come say hi! (Discord)
 - Me: `nwunder#4003`
 - My server! [Dog](https://discord.gg/EtvTR9j6Na)
+- Admin @ Bikini Bottom \([discord.gg/spongebob](https://discord.gg/spongebob))
+- Admin @ MCAT / Premed \([discord.gg/premed](https://discord.gg/premed))
+<!--
+
+-->
 
 <!--
 ### Help me out
