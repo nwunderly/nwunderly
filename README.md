@@ -1,7 +1,7 @@
 
 ### About me :sunglasses:
 
-Hi, I'm nwunder! I'm an aerospace engineering student, soon-to-be electrical engineer, and self-taught developer.
+Hi, I'm nwunder! I'm an aerospace engineering grad, electrical engineer, and self-taught developer.
 I mostly just program for fun, and love to show off my projects on Github!
 You'll mostly find me on Discord, spending time with one of my communities or working on one of my many open-source projects.
 
