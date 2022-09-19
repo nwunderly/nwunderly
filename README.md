@@ -5,6 +5,7 @@ Hi, I'm nwunder! I'm an aerospace engineering grad, electrical engineer, and sel
 I mostly just program for fun, and love to show off my projects on Github!
 You'll mostly find me on Discord, spending time with one of my communities or working on one of my many open-source projects.
 
+<!--
 Recently, I've developed an interest in cybersecurity work. I maintain a [phishing domain API](https://phish.sinking.yachts), and I'm the project lead at a small anti-malware startup.
 Working against phishing and malware scams on Discord, doing my part to make the internet a little bit safer.
 
@@ -26,3 +27,4 @@ My website: https://nwunder.com
 ### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nwunderly&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwunderly&layout=compact&card_width=250&hide_border=true&langs_count=8"/>
+-->
