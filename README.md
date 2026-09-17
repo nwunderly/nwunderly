@@ -1,13 +1,13 @@
 
 ### About me :sunglasses:
 
-Hi, I'm nwunder! I'm an aerospace engineering grad, electrical engineer, self-taught developer, and cybersecurity enthusiast. Just another guy doing my part to make the internet a little bit safer.
+Hi, I'm nwunder! I'm an aerospace engineering grad, software engineer, FOSS appreciator, and cybersecurity enthusiast. Just another guy doing my part to make the internet a little bit safer.
 
 <!--
 Since you're reading this, come chat with me!
 
 Email: hi at nwunder dot com
-Discord: nwunder
+Discord: @nwunder
 -->
 
 <!--
